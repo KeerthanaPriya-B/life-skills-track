@@ -1,7 +1,9 @@
 # Technical Communication
 
 **Introduction**
-The OSI model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers. These layers work together to enable the seamless communication of data between different systems and devices. Here are the seven OSI layers, from the lowest to the highest.
+* The OSI model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct layers. 
+* These layers work together to enable the seamless communication of data between different systems and devices. 
+* Here are the seven OSI layers, from the lowest to the highest.
 
 **1. Physical Layer:** 
 * This layer deals with the physical transmission of data over a physical medium, such as cables and connectors. 
@@ -32,5 +34,5 @@ The OSI model is a conceptual framework that standardizes the functions of a tel
 * It includes application protocols such as HTTP, FTP, SMTP, and others.
 
 **References**
-https://www.imperva.com/learn/application-security/osi-model/
-https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
+* https://www.imperva.com/learn/application-security/osi-model/
+* https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
