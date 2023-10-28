@@ -28,7 +28,6 @@
 **7. What are some steps you can take to exercise more?**
 * Choosing activities that I Enjoy.
 * Creating a Schedule.
-*
 
 
 
